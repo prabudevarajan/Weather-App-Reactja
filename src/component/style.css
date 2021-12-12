@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300;400;500;600;700&display=swap');
+.homeBox{
+    display: grid;
+    place-items: center;
+    height: 100vh;
+}
+.homeBox_field{
+    padding: 10%;
+    text-align: center;
+}
+.homeBox_field h1{
+    font-family: 'Roboto Slab', serif;
+    margin-bottom: 30px;
+}
+.homeBox_field> button{
+    margin-top:30px;
+    text-transform :inherit !important;
+}
+.card{
+padding: 20px;
+}
